@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # HELLO!! I'm Swara 👋👩‍💻
 
-A passionate developer who can be found exploring new technologies or appreciating nature when not immersed in code.
+A developer who loves diving into code, hiking in the great outdoors, and keeping up with the latest fashion trends.
 
 ## 🔭 I’m currently working on
 Optimizing data processing pipelines and building scalable web applications.
