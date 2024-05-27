@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Swarangigaurkar/swarangigaurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 <!-- Banner Image -->
 ![Banner Image](https://your-banner-url.com/banner.png)
 
-# HELLO!! I'm [Your Name] 👋
+# HELLO!! I'm Swara 👋👩‍💻
 
 A passionate developer who can be found exploring new technologies or appreciating nature when not immersed in code.
 
