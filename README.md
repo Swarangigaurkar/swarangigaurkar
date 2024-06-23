@@ -30,16 +30,16 @@ React, graphQL, building LLM models.
 Software Engineering, Distributed Systems and Systems project!
 
 ## 👨‍💻 All of my projects are available at
-[http://www.github.com/your-username](http://www.github.com/swarangigaurkar)
+[github](http://www.github.com/swarangigaurkar)
 
 ## 💬 Ask me about
 Modern web development, data engineering best practices, and leveraging cloud technologies for scalable solutions.
 
 ## 📫 How to reach me
-Send me an email at [your-email@example.com](mailto:your-email@example.com) to talk about job opportunities, collaborations, or any questions!
+Send me an [email at](mailto:gaurkarswarangi01@gmail.com) to talk about job opportunities, collaborations, or any questions!
 
 ## 📄 Know about my experiences
-[LinkedIn](http://linkedin.com/in/your-linkedin)
+[LinkedIn](http://linkedin.com/in/swarangigaurkar)
 
 ## ⚡ Fun fact
 I love integrating different technologies to create seamless and efficient systems!
@@ -77,18 +77,8 @@ I love integrating different technologies to create seamless and efficient syste
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarangigaurkar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarangigaurkar&layout=compact&theme=radical)
 
 ---
 
-## 🚀 Projects
-
-Here are some of my notable projects:
-- [Project 1](https://github.com/your-username/project1): A brief description of Project 1.
-- [Project 2](https://github.com/your-username/project2): A brief description of Project 2.
-- [Project 3](https://github.com/your-username/project3): A brief description of Project 3.
-
----
-
-*Note: This README is dynamically generated using GitHub's readme stats and markdown badges.*
