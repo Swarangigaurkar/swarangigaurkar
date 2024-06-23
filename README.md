@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Banner Image -->
-![Banner Image](https://your-banner-url.com/banner.png)
+![Banner Image](https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkxODEzNjcsIm5iZiI6MTcxOTE4MTA2NywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjIzVDIyMTc0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjZjVmNjM3OWQ2MjI3Yjc4ZjQwZTU2ODcwNjEzZDA3Mjk1NjI0MzQ2OGQ3MDc0MTY5OTI0ZTVlMWE2YjU0MmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DZyZF7XPRub-R1CjN2n78JUbllPSrEu7WSUPBRsGpns)
 
 # HELLO!! I'm Swara 👋👩‍💻
 
