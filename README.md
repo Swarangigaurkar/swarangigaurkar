@@ -16,40 +16,33 @@ Here are some ideas to get you started:
 <!-- Banner Image -->
 ![Banner Image](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
-# Hello!! I'm Swarangi 👋👩‍💻
+## Hello!! I'm Swarangi 👋👩‍💻
 
 A developer who loves diving into code, hiking in the great outdoors, and keeping up with the latest fashion trends.
 
-## 🔭 I’m currently working on
+### 🔭 I’m currently working on
 building scalable web applications.
 
-## 🌱 I’m currently learning
+### 🌱 I’m currently learning
 React, graphQL, building LLM models.
 
-## 👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on
 Software Engineering, Distributed Systems and Systems project!
 
-## 👨‍💻 All of my projects are available at
+### 👨‍💻 All of my projects are available at
 [github](http://www.github.com/swarangigaurkar)
 
-## 💬 Ask me about
+### 💬 Ask me about
 Modern web development, data engineering best practices, and leveraging cloud technologies for scalable solutions.
 
-## 📫 How to reach me
+### 📫 How to reach me
 Send me an [email at](mailto:gaurkarswarangi01@gmail.com) to talk about job opportunities, collaborations, or any questions!
-
-## 📄 Know about my experiences
-[LinkedIn](http://linkedin.com/in/swarangigaurkar)
-
-## ⚡ Fun fact
-I love integrating different technologies to create seamless and efficient systems!
 
 ---
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+### Connect with me
+![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)
+![Instagram](https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif)
 
 ---
 
