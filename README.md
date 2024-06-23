@@ -14,23 +14,23 @@ Here are some ideas to get you started:
 -->
 
 <!-- Banner Image -->
-![Banner Image](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)
+![Banner Image](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
-# Hello!! I'm Swara 👋👩‍💻
+# Hello!! I'm Swarangi 👋👩‍💻
 
 A developer who loves diving into code, hiking in the great outdoors, and keeping up with the latest fashion trends.
 
 ## 🔭 I’m currently working on
-Optimizing data processing pipelines and building scalable web applications.
+building scalable web applications.
 
 ## 🌱 I’m currently learning
-Spring Boot, Apache Airflow, and advanced Kubernetes techniques.
+React, graphQL, building LLM models.
 
 ## 👯 I’m looking to collaborate on
-Software Engineering projects, ETL pipelines, and Data Science initiatives!
+Software Engineering, Distributed Systems and Systems project!
 
 ## 👨‍💻 All of my projects are available at
-[http://www.github.com/your-username](http://www.github.com/your-username)
+[http://www.github.com/your-username](http://www.github.com/swarangigaurkar)
 
 ## 💬 Ask me about
 Modern web development, data engineering best practices, and leveraging cloud technologies for scalable solutions.
@@ -56,8 +56,9 @@ I love integrating different technologies to create seamless and efficient syste
 ## 🛠️ My Technical Skills
 
 ### Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
+![JavaScript](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
+![Java]()
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
 
