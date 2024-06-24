@@ -3,7 +3,7 @@
 
 ## Hello!! I'm Swarangi 👋👩‍💻
 
-A developer who loves diving into code, hiking in the great outdoors, and keeping up with the latest fashion trends.
+A software developer who loves diving into code, hiking in the great outdoors, and keeping up with the latest fashion trends.
 
 #### 🔭 I’m currently working on
 Building scalable web applications.
