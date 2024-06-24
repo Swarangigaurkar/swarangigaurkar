@@ -34,11 +34,15 @@ Send me an [email at](mailto:gaurkarswarangi01@gmail.com) to talk about job oppo
 ### 🛠️ My Technical Skills
 
 #### Languages:
-![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
-![JavaScript](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
-![Java]()
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
+
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://docs.oracle.com/en/java/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/doc/)
 
 #### Frameworks and Libraries:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
