@@ -40,10 +40,6 @@ Send me an [email at](mailto:gaurkarswarangi01@gmail.com) to talk about job oppo
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/doc/)
-
 #### Frameworks and Libraries:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=Apache-Kafka&logoColor=white)
@@ -58,7 +54,6 @@ Send me an [email at](mailto:gaurkarswarangi01@gmail.com) to talk about job oppo
 ---
 
 ### 📈 GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarangigaurkar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarangigaurkar&layout=compact&theme=radical)
 
